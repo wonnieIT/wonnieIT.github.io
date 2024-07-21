@@ -2,3 +2,7 @@ theme: jekyll-theme-minimal
 title: Wonnie's homepage
 description: Hi
 
+layout: post
+title: "LLM Evaluation with Mlflow"
+date: 2024-07-21 17:07:01 
+categories: mlops mlflow
