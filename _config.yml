@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Wonnie's homepage
 description: Hi
+
+layout: page
+title: "LLM_e"
+permalink: /mlops/mlflow
