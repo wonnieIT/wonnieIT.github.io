@@ -3,5 +3,5 @@ title: Wonnie's homepage
 description: Hi
 
 layout: page
-title: "LLM_e"
-permalink: /mlops/mlflow
+title: "LLM_Evaluation_with_MLflow"
+permalink: /mlops/mlflow/llm_evaluation
